@@ -9,7 +9,7 @@
 
 # Deploying Ghost to IBM Bluemix
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/raidery/ghost-on-bluemix)
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/publu/ghost-on-bluemix)
 
 
 Or download this repo and run:
