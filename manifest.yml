@@ -15,4 +15,3 @@ applications:
     NODE_ENV: production
   services:
   - ghost-mysql-db
-  - ghost-sendgrid
